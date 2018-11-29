@@ -1,0 +1,14 @@
+C:\Users\mati\source\repos\TP4\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\mati\source\repos\TP4\Formulario\bin\Debug\Formulario.exe
+C:\Users\mati\source\repos\TP4\Formulario\bin\Debug\Formulario.pdb
+C:\Users\mati\source\repos\TP4\Formulario\bin\Debug\Entidades.dll
+C:\Users\mati\source\repos\TP4\Formulario\bin\Debug\Entidades.pdb
+C:\Users\mati\source\repos\TP4\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\mati\source\repos\TP4\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\mati\source\repos\TP4\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\mati\source\repos\TP4\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\mati\source\repos\TP4\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\mati\source\repos\TP4\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\mati\source\repos\TP4\Formulario\obj\Debug\Formulario.exe
+C:\Users\mati\source\repos\TP4\Formulario\obj\Debug\Formulario.pdb
+C:\Users\mati\source\repos\TP4\Formulario\bin\Debug\Entidades.dll.config
